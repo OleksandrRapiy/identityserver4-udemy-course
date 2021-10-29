@@ -133,3 +133,7 @@ C:\Personal\IdentityServerCourse\IdentityServerCourse.API\obj\Debug\net5.0\Ident
 C:\Personal\IdentityServerCourse\IdentityServerCourse.API\obj\Debug\net5.0\ref\IdentityServerCourse.API.dll
 C:\Personal\IdentityServerCourse\IdentityServerCourse.API\obj\Debug\net5.0\IdentityServerCourse.API.pdb
 C:\Personal\IdentityServerCourse\IdentityServerCourse.API\obj\Debug\net5.0\IdentityServerCourse.API.genruntimeconfig.cache
+C:\Personal\IdentityServerCourse\IdentityServerCourse.API\bin\Debug\net5.0\IdentityModel.dll
+C:\Personal\IdentityServerCourse\IdentityServerCourse.API\bin\Debug\net5.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\Personal\IdentityServerCourse\IdentityServerCourse.API\bin\Debug\net5.0\IdentityServer4.AccessTokenValidation.dll
+C:\Personal\IdentityServerCourse\IdentityServerCourse.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

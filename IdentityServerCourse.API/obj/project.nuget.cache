@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "dFy6SpMkCQ0Ouq42q6mqOHC4YkaURY0hZVOim2d/O4ceEnJB89yBNOe9fcdIdHsc3Fc0tQonUmKV/JN3mj9ihQ==",
+  "dgSpecHash": "dRkXTM2M/ZGNYbpQqsrAHNhyMHAVOSzMC9iSvvy//LkQXOi12GD0bRwcF2ikBrCQJUGqIBxvD0GFOMWzxwd1HA==",
   "success": true,
   "projectFilePath": "C:\\Personal\\IdentityServerCourse\\IdentityServerCourse.API\\IdentityServerCourse.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\orapi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\orapi\\.nuget\\packages\\identitymodel\\4.0.0\\identitymodel.4.0.0.nupkg.sha512",
+    "C:\\Users\\orapi\\.nuget\\packages\\identitymodel.aspnetcore.oauth2introspection\\4.0.1\\identitymodel.aspnetcore.oauth2introspection.4.0.1.nupkg.sha512",
+    "C:\\Users\\orapi\\.nuget\\packages\\identityserver4.accesstokenvalidation\\3.0.1\\identityserver4.accesstokenvalidation.3.0.1.nupkg.sha512",
+    "C:\\Users\\orapi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.0.0\\microsoft.aspnetcore.authentication.jwtbearer.3.0.0.nupkg.sha512",
     "C:\\Users\\orapi\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\orapi\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\orapi\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.0\\microsoft.aspnetcore.razor.language.5.0.0.nupkg.sha512",
