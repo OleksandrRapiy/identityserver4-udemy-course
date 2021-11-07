@@ -18,6 +18,7 @@ namespace IdentityServerCourse.IdentityServer
                 .AddDeveloperSigningCredential()
                 //.AddInMemoryApiResources(IdentityConfiguration.GetAllApiResources())
                 .AddInMemoryApiScopes(IdentityConfiguration.GetAllApiScopes())
+                .AddTestUsers(IdentityConfiguration.GetUsers())
                 .AddInMemoryClients(IdentityConfiguration.GetAllClients());
         }
 
