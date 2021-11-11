@@ -137,3 +137,9 @@ C:\Personal\IdentityServerCourse\IdentityServerCourse.API\bin\Debug\net5.0\Ident
 C:\Personal\IdentityServerCourse\IdentityServerCourse.API\bin\Debug\net5.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
 C:\Personal\IdentityServerCourse\IdentityServerCourse.API\bin\Debug\net5.0\IdentityServer4.AccessTokenValidation.dll
 C:\Personal\IdentityServerCourse\IdentityServerCourse.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Personal\IdentityServerCourse\IdentityServerCourse.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Personal\IdentityServerCourse\IdentityServerCourse.API\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Personal\IdentityServerCourse\IdentityServerCourse.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Personal\IdentityServerCourse\IdentityServerCourse.API\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Personal\IdentityServerCourse\IdentityServerCourse.API\bin\Debug\net5.0\Swashbuckle.Swagger.dll
+C:\Personal\IdentityServerCourse\IdentityServerCourse.API\obj\Debug\net5.0\IdentityServerCourse.API.csproj.CopyComplete

@@ -1,3 +1,4 @@
+using System;
 using IdentityServerCourse.API.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -38,6 +39,11 @@ namespace IdentityServerCourse.API
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "IdentityServerCourse.API", Version = "v1" });
+
+                //c.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme()
+                //{
+                //    Type = SecuritySchemeType.OAuth2
+                //});
             });
 
             services.AddDbContext<ApplicationContext>(options =>
@@ -55,7 +61,8 @@ namespace IdentityServerCourse.API
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseSwagger();
+                app.UseSwagger(o =>
+                { });
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "IdentityServerCourse.API v1"));
             }
 

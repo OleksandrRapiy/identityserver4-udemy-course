@@ -68,7 +68,9 @@ namespace IdentityServerCourse.API.Controllers
             return NoContent();
         }
 
+
         [HttpPost]
+        [Authorize]
         public async Task<ActionResult<Customer>> PostCustomer(Customer customer)
         {
             _context.Customers.Add(customer);
